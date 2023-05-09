@@ -16,4 +16,4 @@ f) Adobe Firefly demo (optional)
 
 g) semantic kernel picka complicated app and build using semantic kernel - as student you get azure ai 100 dollar account free. https://dev.to/dotnet/build-a-chatgpt-clone-in-net-using-openai-and-semantic-kernel-28paLinks to an external site. : https://colab.research.google.com/drive/1gTO--ZKRZqM4COSBwArIwJvOBqJ41DIi?usp=sharing
 
-h) write an essay on best practices for prompt engineering in medium -
+h) write an essay on best practices for prompt engineering in medium - https://medium.com/@abdulvahed.shaik/best-practices-for-prompt-engineering-10fb1389136
