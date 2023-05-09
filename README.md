@@ -10,7 +10,7 @@ c) Jarvis hugginggpt live access demo - come up with innovative task - do not co
 
 d) Visual ChatGPT :
 
-e) OpenAI chat with excel
+e) OpenAI chat with excel : https://colab.research.google.com/drive/1BPWXGYlPh8UMg8EnGBmDItGeFbAVuQ-6?usp=sharing
 
 f) Adobe Firefly demo (optional)
 
