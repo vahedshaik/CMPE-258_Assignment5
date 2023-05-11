@@ -8,7 +8,7 @@ b) AgentGPT :  https://www.youtube.com/watch?v=bIk_6Lma4zI
 
 c) Jarvis hugginggpt live access demo - come up with innovative task - do not copy paste - demo video upload :
 
-d) Visual ChatGPT :
+d) Visual ChatGPT : https://youtu.be/fJlx5PvqPR0 
 
 e) OpenAI chat with excel : https://colab.research.google.com/drive/1BPWXGYlPh8UMg8EnGBmDItGeFbAVuQ-6?usp=sharing
 
