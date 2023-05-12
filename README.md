@@ -6,7 +6,7 @@ a) a) BabyAGI with langchain : https://colab.research.google.com/drive/1xDbCZaIF
 
 b) AgentGPT :  https://www.youtube.com/watch?v=bIk_6Lma4zI
 
-c) Jarvis hugginggpt live access demo - come up with innovative task - do not copy paste - demo video upload :
+c) Jarvis hugginggpt live access demo - come up with innovative task - do not copy paste - demo video upload : https://youtu.be/fJlx5PvqPR0
 
 d) Visual ChatGPT : https://youtu.be/fJlx5PvqPR0 
 
